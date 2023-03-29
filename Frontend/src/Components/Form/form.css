@@ -1,0 +1,145 @@
+.name{
+    margin-top:5px;
+    border: 2px solid blue;
+    height:50px;
+    width:300px;
+    border-radius: 15px;
+    background-color: rgb(218, 218, 251);
+}
+.Name{
+    display: flex;
+    margin-top:10px;;
+
+}
+.Name-ii{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.number{
+    margin-top: 15px;
+    border: 2px solid blue;
+    height:50px;
+    width:300px;
+    border-radius: 15px;
+    background-color: rgb(218, 218, 251);
+}
+.Number-i{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.email{
+    margin-top: 15px;
+    border: 2px solid blue;
+    height:50px;
+    width:300px;
+    border-radius: 15px;
+    background-color: rgb(218, 218, 251);
+}
+.Email-i{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.profession{
+    margin-top: 15px;
+    border: 2px solid blue;
+    height:50px;
+    width:300px;
+    border-radius: 15px;
+    background-color: rgb(218, 218, 251);
+}
+.Profession-i{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.password{
+    margin-top: 15px;
+    border: 2px solid blue;
+    height:50px;
+    width:300px;
+    border-radius: 15px;
+    background-color: rgb(218, 218, 251);
+}
+.Password-i{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.cpassword{
+    margin-top: 15px;
+    border: 2px solid blue;
+    height:50px;
+    width:300px;
+    border-radius: 15px;
+    background-color: rgb(218, 218, 251);
+}
+.CPassword-i{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.pic-logo{
+    height:640px;
+    width:400px;
+    background:url("https://i.imgur.com/HpbROLC.png"); 
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-color: beige;
+    border-radius: 20px 0px 0px 20px;
+}
+.main-body{
+    width:850px;
+    height:700px;
+    border-radius: 20px;
+    margin-top: 55px;
+    
+}
+.inside-main-body{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: -3px;;
+}
+.form-details{
+    background-color: blueviolet;
+    width:400px;
+    height:640px;
+    border-radius: 0px 20px 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Tag{
+    display:block;
+    font-size:30px;
+    margin-top: 0px;
+    font-family: 'Rampart One', cursive;
+}
+.form1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.li{
+    font-size: 20px;
+    color:white;
+    font-family: 'Shantell Sans', cursive;
+    margin-top: 0px;
+}
+.Sub{
+    background-color: cadetblue;
+    height:40px;
+    width:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+   
+}
+.genderdetails{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+}
+body{
+    background-color: rgb(237, 237, 237);
+}

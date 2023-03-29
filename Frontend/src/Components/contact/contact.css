@@ -1,0 +1,14 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.cont{
+    height:400px;
+    background:url("https://i.imgur.com/sWJfRNy.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border: 1px solid white;
+}
+body{
+    background-color: white;
+}

@@ -1,0 +1,64 @@
+.header{
+    background-color:rgb(220, 220, 220);
+    height:60px;
+    display: flex;
+    justify-content: space-between;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    /* margin-top:18px; */ 
+}
+.home{
+padding: 20px;
+cursor: pointer;
+}
+.aboutus{
+    padding: 20px;
+    cursor: pointer;
+
+}
+.form{
+    padding: 20px;
+    cursor: pointer;
+
+}
+.home:hover {
+    color:blue;
+}
+.aboutus:hover{
+    color:blue;
+}
+.form:hover{
+    color:blue;
+}
+.logo{
+    height:50px;
+    width: 310px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background:url("https://i.imgur.com/PY3zvvk.png")
+}
+.help{
+    height:70px;
+    width:70px;
+    background-image:url('https://i0.wp.com/living.ai/wp-content/uploads/2021/04/emo.gif?fit=800%2C800&ssl=1');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.robot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+.help-tag{
+    font-size:small;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.help-tag:hover {
+    color:blue;
+    cursor: pointer;
+}
